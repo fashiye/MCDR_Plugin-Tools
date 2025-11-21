@@ -29,6 +29,7 @@
 1. 将插件复制到MCDR的 `plugins` 目录中
 2. 重启服务器或运行!!MCDR plugin reload tools
 3. **初次使用请更改config.json中的enable_tools项为true才能启用**
+
    **配置文件默认启用全部功能**
 ## 使用方法
 
