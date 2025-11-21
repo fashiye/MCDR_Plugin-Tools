@@ -1,0 +1,17 @@
+{
+    "settings": {
+        "enable_here": true,
+        "enable_kill": true,
+        "enable_tp": true,
+        "enable_restart": true,
+        "enable_random": true,
+        "enable_fakeplayer": true,
+        "enable_manyplayer": true,
+        "enable_betterchat": true,
+        "enable_scale": true,
+        "enable_tools": false
+    },
+    "message": {
+        "welcome_message": "§c欢迎 §a{player} §c加入游戏！"
+    }
+}
