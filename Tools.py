@@ -554,7 +554,7 @@ class BetterChat():
     def Chat(self, info: Info):
         if not info.is_player:
             return
-        if '@' not in info.content:
+        if '@' not in info.content or info.player == 'Server':
             return
         if '@a' in info.content:
             self.server.say(f'- §a玩家 §e{info.player} §a@了所有人')
