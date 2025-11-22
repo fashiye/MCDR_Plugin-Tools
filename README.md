@@ -36,6 +36,3 @@
 根据需要调整配置文件夹中的config.json
 **初次使用请更改config.json中的enable_tools项为true才能启用**
 
-## 许可证
-
-MIT 许可证 — 详见 LICENSE 文件
