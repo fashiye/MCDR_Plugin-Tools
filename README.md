@@ -23,7 +23,11 @@
 - ！restart服务器重启（需要权限）
 - 欢迎玩家
 
-
+### ⚡ 其他实用功能
+- `!l` - 投骰子
+- 
+- `!sc` - 玩家大小缩放
+  
 ## 安装方法
 
 1. 将插件复制到MCDR的 `plugins` 目录中
@@ -36,3 +40,6 @@
 根据需要调整配置文件夹中的config.json
 **初次使用请更改config.json中的enable_tools项为true才能启用**
 
+## 许可证
+
+GPL-3.0 License - Copyright (c) 2024 MoonShadow233
