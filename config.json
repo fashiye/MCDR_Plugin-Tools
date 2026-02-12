@@ -9,7 +9,9 @@
         "enable_manyplayer": true,
         "enable_betterchat": true,
         "enable_scale": true,
-        "enable_tools": false
+        "enable_tools": false,
+        "Max Teleport Locations": 30,
+        "Permission level for setting locations": 3
     },
     "message": {
         "welcome_message": "§c欢迎 §a{player} §c加入游戏！"

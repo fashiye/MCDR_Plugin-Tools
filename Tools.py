@@ -367,9 +367,9 @@ class GamemodeTp():
         
         dimension_map = {
             '主世界': ('minecraft:overworld', 0, 64, 0),
-            '地狱': ('minecraft:the_nether', 0, 120, 0),
-            '下界': ('minecraft:the_nether', 0, 120, 0),
-            '下届': ('minecraft:the_nether', 0, 120, 0),
+            '地狱': ('minecraft:the_nether', 0, 124, 0),
+            '下界': ('minecraft:the_nether', 0, 124, 0),
+            '下届': ('minecraft:the_nether', 0, 124, 0),
             '末地': ('minecraft:the_end', 0, 64, 0)
         }
         
