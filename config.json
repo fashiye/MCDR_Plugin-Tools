@@ -15,5 +15,17 @@
     },
     "message": {
         "welcome_message": "§c欢迎 §a{player} §c加入游戏！"
+    },
+
+    "Position": {
+      "例子": {
+        "x": 0,
+        "y": 64,
+        "z": 0,
+        "dimension": "0"
+      }
+        
+
+
     }
 }
