@@ -263,7 +263,7 @@ class GamemodeTp():
         检查玩家游戏模式
         只有旁观模式（游戏模式3）才能使用传送功能
         :param info: 服务器信息对象
-        :return: 是旁观模式返回True，否则返回False
+        :return: 是旁观模式，op返回True，否则返回False
         """
         api = self.server.get_plugin_instance('minecraft_data_api')
         gamemode = str(api.get_player_info(info.player, 'playerGameType'))
